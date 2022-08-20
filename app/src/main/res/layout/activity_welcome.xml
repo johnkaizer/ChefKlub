@@ -53,6 +53,7 @@
         android:textAllCaps="false"
         android:textColor="@color/white"
         android:textStyle="bold"
+        android:onClick="register"
         android:background="@drawable/btn_back"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"

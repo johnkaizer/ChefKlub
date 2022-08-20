@@ -13,4 +13,11 @@
     <string name="chefklub">ChefKlub</string>
     <string name="welcome_get_recipes_of_your_favourite_meal">Welcome get recipes of your favourite meal</string>
     <string name="get_started">GET STARTED</string>
+    <string name="registration">Registration</string>
+    <string name="username">Username</string>
+    <string name="password">password</string>
+    <string name="email">email</string>
+    <string name="register">Register</string>
+    <string name="already_registered">Already Registered?</string>
+    <string name="sign_in">Sign In</string>
 </resources>
