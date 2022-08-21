@@ -12,14 +12,20 @@
         tools:layout="@layout/fragment_home" />
 
     <fragment
-        android:id="@+id/nav_gallery"
-        android:name="com.project.chefklub.ui.gallery.GalleryFragment"
-        android:label="@string/menu_gallery"
-        tools:layout="@layout/fragment_gallery" />
+        android:id="@+id/nav_fav"
+        android:name="com.project.chefklub.ui.Favourite.FavouriteMealFragment"
+        android:label="@string/favourite_meal"
+        tools:layout="@layout/favourite_meal_fragement" />
 
     <fragment
-        android:id="@+id/nav_slideshow"
-        android:name="com.project.chefklub.ui.slideshow.SlideshowFragment"
-        android:label="@string/menu_slideshow"
-        tools:layout="@layout/fragment_slideshow" />
+        android:id="@+id/nav_tips"
+        android:name="com.project.chefklub.ui.QuickTips.QuickTipsFragment"
+        android:label="@string/easy_tips"
+        tools:layout="@layout/fragment_quick_tips" />
+    <fragment
+        android:id="@+id/recipesFragment"
+        android:name="com.project.chefklub.ui.recipes.RecipesFragment"
+        android:label="@string/recipe"
+        tools:layout="@layout/fragment_recipes" />
+
 </navigation>

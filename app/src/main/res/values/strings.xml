@@ -20,4 +20,14 @@
     <string name="register">Register</string>
     <string name="already_registered">Already Registered?</string>
     <string name="sign_in">Sign In</string>
+    <string name="login">login</string>
+    <string name="Register">register</string>
+    <string name="don_t_have_an_account">Don\'t Have an Account?</string>
+    <string name="favourite_meal">Favourite Meals</string>
+    <string name="easy_tips">Quick Tips</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="recipe">My Recipes</string>
+    <string name="user">Johntez</string>
+    <string name="mail">johntez@gmail.com</string>
 </resources>

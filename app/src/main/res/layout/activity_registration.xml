@@ -5,7 +5,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".RegistrationActivity">
+    tools:context=".ui.registratuion.RegistrationActivity">
 
     <ImageView
         android:id="@+id/imageView2"
@@ -67,6 +67,7 @@
         android:layout_height="wrap_content"
         android:backgroundTint="@color/yellow"
         android:drawableLeft="@drawable/email_24"
+        android:layout_marginTop="10dp"
         android:drawablePadding="14dp"
         android:hint="@string/email"
         android:textColorHint="@color/white"
@@ -82,6 +83,7 @@
         android:layout_height="wrap_content"
         android:backgroundTint="@color/yellow"
         android:drawableLeft="@drawable/lock"
+        android:layout_marginTop="10dp"
         android:drawablePadding="14dp"
         android:hint="@string/password"
         android:textColorHint="@color/white"
@@ -101,12 +103,13 @@
         android:textAllCaps="false"
         android:textColor="@color/white"
         android:textStyle="bold"
+        android:onClick="home"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/editText4"
         app:layout_constraintWidth_percent=".8"
-        app:layout_constraintVertical_bias="0.7"/>
+        app:layout_constraintVertical_bias="0.6"/>
 
     <TextView
         android:id="@+id/textView4"
@@ -116,9 +119,10 @@
         android:text="@string/already_registered"
         android:textAlignment="center"
         android:textColor="@color/white"
-        android:textStyle="bold"
         android:textSize="20sp"
+        android:textStyle="bold"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.427"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/appCompatButton" />
 
@@ -128,6 +132,7 @@
         android:layout_marginTop="32dp"
         android:text="@string/sign_in"
         android:textAlignment="center"
+        android:onClick="sigin"
         android:textColor="@color/yellow"
         android:textSize="20sp"
         android:textStyle="bold"
