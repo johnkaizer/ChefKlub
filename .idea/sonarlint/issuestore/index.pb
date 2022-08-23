@@ -36,5 +36,13 @@ k
 ;app/src/main/java/com/project/chefklub/WelcomeActivity.java,a\8\a8a68453b115ae4d4a3ee3348078574c5499b8c8
 r
 Bapp/src/main/java/com/project/chefklub/ui/login/LoginActivity.java,0\2\02e4570bdab72b8fbc392605ec5d05ec2892ec0b
-z
-Japp/src/main/java/com/project/chefklub/ui/QuickTips/QuickTipsFragment.java,8\1\8159c89f80cb71f2a2920f84fba11d2fbff04be0
+h
+8app/src/main/java/com/project/chefklub/MainActivity.java,9\2\9260746352b520bc01e1060cf3f5c161314af9a3
+r
+Bapp/src/main/java/com/project/chefklub/models/HorizontalModel.java,1\3\13841f5cad4243ebbe736d3994fe7eebcaedde28
+p
+@app/src/main/java/com/project/chefklub/models/VerticalModel.java,3\5\3549aa86532af600067dc0fa1191464510ccc2b7
+l
+<app/src/main/java/com/project/chefklub/adapters/Recipes.java,8\b\8b34a042aba4e704b299df51bd56957db3a9fc9d
+t
+Dapp/src/main/java/com/project/chefklub/adapters/VerticalAdapter.java,2\0\2067d7b68920ab2b1ab2607e4215d8cf212b44ab

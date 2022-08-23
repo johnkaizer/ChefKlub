@@ -54,7 +54,7 @@ public class HorizontalAdapter extends RecyclerView.Adapter<HorizontalAdapter.vi
             recipes.callBack(position, verticalModels);
             check = false;
         }
-         holder.cardView.setOnClickListener(new View.OnClickListener() {
+         holder.cardView1.setOnClickListener(new View.OnClickListener() {
              @Override
              public void onClick(View v) {
                  row_index = position;
@@ -130,17 +130,17 @@ public class HorizontalAdapter extends RecyclerView.Adapter<HorizontalAdapter.vi
              }
          });
          if (select){
-             if (position == 0){
-                 holder.cardView.setBackgroundResource(R.drawable.backgr);
+             if (position==0){
+                 holder.cardView1.setBackgroundResource(R.drawable.backgr);
                  select = false;
              }
          }
          else {
-             if (row_index == position){
-                 holder.cardView.setBackgroundResource(R.drawable.backgr);
+             if (row_index==position){
+                 holder.cardView1.setBackgroundResource(R.drawable.backgr);
 
-             }else {
-                 holder.cardView.setBackgroundResource(R.drawable.default_backgr);
+             }else  {
+                 holder.cardView1.setBackgroundResource(R.drawable.default_backgr);
              }
          }
         }
@@ -154,13 +154,13 @@ public class HorizontalAdapter extends RecyclerView.Adapter<HorizontalAdapter.vi
     public class viewHolder extends RecyclerView.ViewHolder {
         ImageView image;
         TextView name;
-        CardView cardView;
+        CardView cardView1;
         public viewHolder(@NonNull View itemView) {
             super(itemView);
 
             image = itemView.findViewById(R.id.image_recipe);
             name = itemView.findViewById(R.id.text_recipe);
-            cardView = itemView.findViewById(R.id.cardView1);
+            cardView1 = itemView.findViewById(R.id.cardView1);
 
         }
     }

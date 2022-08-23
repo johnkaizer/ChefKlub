@@ -30,4 +30,6 @@
     <string name="recipe">My Recipes</string>
     <string name="user">Johntez</string>
     <string name="mail">johntez@gmail.com</string>
+    <string name="see_more">See more...</string>
+    <string name="dinner_tips">Dinner Tips</string>
 </resources>

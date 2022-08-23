@@ -41,7 +41,6 @@ public class HomeFragment extends Fragment implements Recipes {
         horizontalModelList =new ArrayList<>();
 
         horizontalModelList.add(new HorizontalModel(R.drawable.fish, "Fish"));
-        horizontalModelList.add(new HorizontalModel(R.drawable.githeri, "Githeri"));
         horizontalModelList.add(new HorizontalModel(R.drawable.kuku, "Chicken"));
         horizontalModelList.add(new HorizontalModel(R.drawable.omena, "Sardines"));
         horizontalModelList.add(new HorizontalModel(R.drawable.ugali, "Ugali"));
@@ -49,6 +48,7 @@ public class HomeFragment extends Fragment implements Recipes {
         horizontalModelList.add(new HorizontalModel(R.drawable.pilau, "Pilau"));
         horizontalModelList.add(new HorizontalModel(R.drawable.mutton, "Mutton"));
         horizontalModelList.add(new HorizontalModel(R.drawable.pork, "Pork"));
+        horizontalModelList.add(new HorizontalModel(R.drawable.githeri, "Githeri"));
         horizontalModelList.add(new HorizontalModel(R.drawable.chapo, "Chapati"));
         horizontalModelList.add(new HorizontalModel(R.drawable.mandazis, "Mandazi"));
 
