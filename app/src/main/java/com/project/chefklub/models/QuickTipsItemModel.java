@@ -1,15 +1,13 @@
 package com.project.chefklub.models;
 
-public class QuickTipModel {
+public class QuickTipsItemModel {
 
     int image;
     String name;
-    String tip;
 
-    public QuickTipModel(int image, String name, String tip) {
+    public QuickTipsItemModel(int image, String name) {
         this.image = image;
         this.name = name;
-        this.tip = tip;
     }
 
     public int getImage() {
@@ -26,13 +24,5 @@ public class QuickTipModel {
 
     public void setName(String name) {
         this.name = name;
-    }
-
-    public String getTip() {
-        return tip;
-    }
-
-    public void setTip(String tip) {
-        this.tip = tip;
     }
 }

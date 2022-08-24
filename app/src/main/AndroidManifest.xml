@@ -14,6 +14,12 @@
         android:theme="@style/Theme.ChefKlub"
         tools:targetApi="31">
         <activity
+            android:name=".Activities.RecipeDetailsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Activities.QuickTipsDetailsActivity"
+            android:exported="false" />
+        <activity
             android:name=".ui.registratuion.RegistrationActivity"
             android:exported="false" />
         <activity
@@ -32,8 +38,7 @@
             android:name=".MainActivity"
             android:exported="true"
             android:label="@string/app_name"
-            android:theme="@style/Theme.ChefKlub.NoActionBar">
-        </activity>
+            android:theme="@style/Theme.ChefKlub.NoActionBar" />
 
         <meta-data
             android:name="preloaded_fonts"

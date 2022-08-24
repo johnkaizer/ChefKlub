@@ -33,13 +33,13 @@ public class QuickTipsFragment extends Fragment {
         recyclerView.setLayoutManager(new LinearLayoutManager(getContext()));
         quickTipModels = new ArrayList<>();
 
-        quickTipModels.add(new QuickTipModel(R.drawable.breakfastimages, "Breakfast Tips"));
-        quickTipModels.add(new QuickTipModel(R.drawable.brunchimages, "Brunch Tips"));
-        quickTipModels.add(new QuickTipModel(R.drawable.lunchimage, "Lunch Tips"));
-        quickTipModels.add(new QuickTipModel(R.drawable.dinnerimage, "Dinner tips"));
-        quickTipModels.add(new QuickTipModel(R.drawable.smoothieimage, "Smoothie tips"));
-        quickTipModels.add(new QuickTipModel(R.drawable.simplemeals, "Simple Meals tips"));
-        quickTipModels.add(new QuickTipModel(R.drawable.ugali, "Cheap Meals tips"));
+        quickTipModels.add(new QuickTipModel(R.drawable.breakfastimages, "Breakfast Tips","breakfast"));
+        quickTipModels.add(new QuickTipModel(R.drawable.brunchimages, "Brunch Tips","brunch"));
+        quickTipModels.add(new QuickTipModel(R.drawable.lunchimage, "Lunch Tips","lunch"));
+        quickTipModels.add(new QuickTipModel(R.drawable.dinnerimage, "Dinner tips","dinner"));
+        quickTipModels.add(new QuickTipModel(R.drawable.smoothieimage, "Smoothie tips","smoothie"));
+        quickTipModels.add(new QuickTipModel(R.drawable.simplemeals, "Simple Meals tips","simple"));
+        quickTipModels.add(new QuickTipModel(R.drawable.ugali, "Cheap Meals tips","cheap"));
 
 
         quictipsAdapters = new QuictipsAdapters(getContext(), quickTipModels);

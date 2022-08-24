@@ -1,6 +1,8 @@
 package com.project.chefklub.adapters;
 
+import android.annotation.SuppressLint;
 import android.content.Context;
+import android.content.Intent;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -10,6 +12,7 @@ import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
+import com.project.chefklub.Activities.QuickTipsDetailsActivity;
 import com.project.chefklub.R;
 import com.project.chefklub.models.QuickTipModel;
 
@@ -34,9 +37,18 @@ public class QuictipsAdapters extends RecyclerView.Adapter<QuictipsAdapters.View
     }
 
     @Override
-    public void onBindViewHolder(@NonNull ViewHolder holder, int position) {
+    public void onBindViewHolder(@NonNull ViewHolder holder, @SuppressLint("RecyclerView") int position) {
         holder.image.setImageResource(list.get(position).getImage());
         holder.name.setText(list.get(position).getName());
+
+        holder.itemView.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(context, QuickTipsDetailsActivity.class);
+                intent.putExtra("tip",list.get(position).getTip());
+                context.startActivity(intent);
+            }
+        });
 
     }
 
@@ -52,6 +64,8 @@ public class QuictipsAdapters extends RecyclerView.Adapter<QuictipsAdapters.View
             super(itemView);
             image =itemView.findViewById(R.id.image_qt);
             name = itemView.findViewById(R.id.name_qt);
+
+
         }
     }
 }
