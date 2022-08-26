@@ -6,13 +6,17 @@ public class VerticalModel {
     String duration;
     String rating;
     String cost;
+    String ingredients;
+    String description;
 
-    public VerticalModel(int image, String name, String duration, String rating, String cost) {
+    public VerticalModel(int image, String name, String duration, String rating, String cost, String ingredients, String description) {
         this.image = image;
         this.name = name;
         this.duration = duration;
         this.rating = rating;
         this.cost = cost;
+        this.ingredients = ingredients;
+        this.description = description;
     }
 
     public int getImage() {
@@ -53,5 +57,21 @@ public class VerticalModel {
 
     public void setCost(String cost) {
         this.cost = cost;
+    }
+
+    public String getIngredients() {
+        return ingredients;
+    }
+
+    public void setIngredients(String ingredients) {
+        this.ingredients = ingredients;
+    }
+
+    public String getDescription() {
+        return description;
+    }
+
+    public void setDescription(String description) {
+        this.description = description;
     }
 }

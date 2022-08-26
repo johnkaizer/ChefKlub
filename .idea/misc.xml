@@ -16,17 +16,19 @@
         <entry key="..\:/Users/kayza/AndroidStudioProjects/ChefKlub/app/src/main/res/layout/activity_login.xml" value="0.25" />
         <entry key="..\:/Users/kayza/AndroidStudioProjects/ChefKlub/app/src/main/res/layout/activity_main.xml" value="0.17074275362318841" />
         <entry key="..\:/Users/kayza/AndroidStudioProjects/ChefKlub/app/src/main/res/layout/activity_quick_tips_details.xml" value="0.17844202898550723" />
-        <entry key="..\:/Users/kayza/AndroidStudioProjects/ChefKlub/app/src/main/res/layout/activity_recipe_details.xml" value="0.17844202898550723" />
+        <entry key="..\:/Users/kayza/AndroidStudioProjects/ChefKlub/app/src/main/res/layout/activity_recipe_details.xml" value="0.25" />
         <entry key="..\:/Users/kayza/AndroidStudioProjects/ChefKlub/app/src/main/res/layout/activity_registration.xml" value="0.1" />
         <entry key="..\:/Users/kayza/AndroidStudioProjects/ChefKlub/app/src/main/res/layout/activity_welcome.xml" value="0.1" />
         <entry key="..\:/Users/kayza/AndroidStudioProjects/ChefKlub/app/src/main/res/layout/app_bar_main.xml" value="0.17074275362318841" />
         <entry key="..\:/Users/kayza/AndroidStudioProjects/ChefKlub/app/src/main/res/layout/content_main.xml" value="0.16304347826086957" />
-        <entry key="..\:/Users/kayza/AndroidStudioProjects/ChefKlub/app/src/main/res/layout/favourite_meal_fragement.xml" value="0.25" />
+        <entry key="..\:/Users/kayza/AndroidStudioProjects/ChefKlub/app/src/main/res/layout/favourite_meal_fragement.xml" value="0.1661721068249258" />
+        <entry key="..\:/Users/kayza/AndroidStudioProjects/ChefKlub/app/src/main/res/layout/favourite_ver_item.xml" value="0.18206521739130435" />
         <entry key="..\:/Users/kayza/AndroidStudioProjects/ChefKlub/app/src/main/res/layout/fragment_gallery.xml" value="0.1" />
         <entry key="..\:/Users/kayza/AndroidStudioProjects/ChefKlub/app/src/main/res/layout/fragment_home.xml" value="0.15896739130434784" />
         <entry key="..\:/Users/kayza/AndroidStudioProjects/ChefKlub/app/src/main/res/layout/fragment_myrecipes.xml" value="0.17074275362318841" />
         <entry key="..\:/Users/kayza/AndroidStudioProjects/ChefKlub/app/src/main/res/layout/fragment_quick_tips.xml" value="0.2033514492753623" />
         <entry key="..\:/Users/kayza/AndroidStudioProjects/ChefKlub/app/src/main/res/layout/fragment_tips.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/kayza/AndroidStudioProjects/ChefKlub/app/src/main/res/layout/hor_fav_items.xml" value="0.18" />
         <entry key="..\:/Users/kayza/AndroidStudioProjects/ChefKlub/app/src/main/res/layout/nav_header_main.xml" value="0.15" />
         <entry key="..\:/Users/kayza/AndroidStudioProjects/ChefKlub/app/src/main/res/layout/quick_tip_item.xml" value="0.203125" />
         <entry key="..\:/Users/kayza/AndroidStudioProjects/ChefKlub/app/src/main/res/layout/quick_tip_item_back.xml" value="0.17844202898550723" />

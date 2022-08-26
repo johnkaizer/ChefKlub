@@ -20,8 +20,6 @@ z
 Japp/src/androidTest/java/com/project/chefklub/ExampleInstrumentedTest.java,2\8\281da4d31bb5bf8e18d38d19526ee029908ce9be
 k
 ;app/src/test/java/com/project/chefklub/ExampleUnitTest.java,5\e\5eefefa3aedb5339b6485666ec0bb82b3f6bd747
-~
-Napp/src/main/java/com/project/chefklub/ui/Favourite/FavouriteMealFragment.java,0\d\0dec82d5f11ef4b5366ca99bfec8730cd695700e
 v
 Fapp/src/main/java/com/project/chefklub/ui/recipes/RecipesFragment.java,8\7\87a3f155162bb795a1db49cdf3d86979dae42263
 Å
@@ -32,10 +30,6 @@ r
 Bapp/src/main/java/com/project/chefklub/ui/login/LoginActivity.java,0\2\02e4570bdab72b8fbc392605ec5d05ec2892ec0b
 h
 8app/src/main/java/com/project/chefklub/MainActivity.java,9\2\9260746352b520bc01e1060cf3f5c161314af9a3
-r
-Bapp/src/main/java/com/project/chefklub/models/HorizontalModel.java,1\3\13841f5cad4243ebbe736d3994fe7eebcaedde28
-p
-@app/src/main/java/com/project/chefklub/models/VerticalModel.java,3\5\3549aa86532af600067dc0fa1191464510ccc2b7
 l
 <app/src/main/java/com/project/chefklub/adapters/Recipes.java,8\b\8b34a042aba4e704b299df51bd56957db3a9fc9d
 t

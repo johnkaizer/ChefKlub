@@ -33,4 +33,9 @@
     <string name="see_more">See more...</string>
     <string name="dinner_tips">Dinner Tips</string>
     <string name="item_name">Item Name</string>
+    <string name="rating">Rating</string>
+    <string name="duration">Duration</string>
+    <string name="apprx_cost">Apprx Cost</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="item_description">desc</string>
 </resources>
