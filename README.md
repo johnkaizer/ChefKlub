@@ -1,5 +1,12 @@
 # ChefKlub
 A simple android application for food recipes. Users are able to see the approximate cost of a recipe with the amount of time to prepare and also keep their recipes.
+
+## Technologies used
+* Java- `Backend.`
+* Xmls- `Frontend.`
+* Gradle- `(For Project building).`
+* Junit- `Testing`
+
 # Screenshots
 <img src="Images/Welcome.png" width="250" > <img src="Images/signin.png" width="250" >
 <img src="Images/register.png" width="250" ><img src="Images/home.png" width="250" >
@@ -15,12 +22,6 @@ A simple android application for food recipes. Users are able to see the approxi
 ## Setup & Installation
 * Clone the project into your machine from `https://github.com/johnkaizer/ChefKlub.git`
 * Run the project in the forked root folder- gradle run.
-
-## Technologies used
-* Java- `Backend.`
-* Xmls- `Frontend.`
-* Gradle- `(For Project building).`
-* Junit- `Testing`
 
 ## Development
 Want to contribute? Great!
