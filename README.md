@@ -8,12 +8,12 @@ A simple android application for food recipes. Users are able to see the approxi
 * Junit- `Testing`
 
 # Screenshots
-<img src="Images/Welcome.png" width="250" > <img src="Images/signin.png" width="250" >
-<img src="Images/register.png" width="250" ><img src="Images/home.png" width="250" >
-<img src="Images/homescreen.png" width="250" ><img src="Images/navdrawer.png" width="250" >
-<img src="Images/Mealtips.png" width="250" ><img src="Images/quck2.png" width="250" >
-<img src="Images/quick.png" width="250" ><img src="Images/favourite1.png" width="250" >
-<img src="Images/fav2.png" width="250" >
+<img src="Images/Welcome.png" width="200" > <img src="Images/signin.png" width="200" >
+<img src="Images/register.png" width="200" ><img src="Images/home.png" width="200" >
+<img src="Images/homescreen.png" width="200" ><img src="Images/navdrawer.png" width="200" >
+<img src="Images/Mealtips.png" width="200" ><img src="Images/quck2.png" width="200" >
+<img src="Images/quick.png" width="200" ><img src="Images/favourite1.png" width="200" >
+<img src="Images/fav2.png" width="200" >
 
 ## Prerequisites
 - Basic java, Android Studio and Git knowledge, including an installed version of Git.
