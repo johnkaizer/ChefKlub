@@ -1,4 +1,4 @@
-package com.project.chefklub;
+package com.project.chefklub.Activities;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -6,6 +6,7 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 
+import com.project.chefklub.R;
 import com.project.chefklub.ui.login.LoginActivity;
 import com.project.chefklub.ui.registratuion.RegistrationActivity;
 

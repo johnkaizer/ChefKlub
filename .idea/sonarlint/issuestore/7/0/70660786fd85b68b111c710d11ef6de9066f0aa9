@@ -1,0 +1,46 @@
+
+c
+java:S11926"MDefine a constant instead of duplicating this literal "2.0 - Hours" 10 times.(ƒ¹Ä…
+…
+java:S11926"oDefine a constant instead of duplicating this literal "Wrap your fish with the ingredients in a foil" 12 times.(ƒ¹Ä…
+_
+java:S11927"IDefine a constant instead of duplicating this literal "KSH 2000" 8 times.(°ø™ä
+_
+java:S1192K"IDefine a constant instead of duplicating this literal "KSH 1500" 5 times.(ØûÒÿ
+g
+java:S1192M"LDefine a constant instead of duplicating this literal "0.5 - Hours" 5 times.(ìþò‡øÿÿÿÿ
+^
+java:S1192Y"IDefine a constant instead of duplicating this literal "KSH 1700" 7 times.(’çÖc
+u
+java:S11926"_Define a constant instead of duplicating this literal "1. Fish
+2. Onions
+3. Tomatoes
+" 6 times.(ƒ¹Ä…
+Ò
+java:S1192Y"¼Define a constant instead of duplicating this literal "Boil some water till it stars bubbling, add blueband and let it dissolve then add flour while stirring to your satisfaction" 3 times.(’çÖc
+b
+java:S11927"LDefine a constant instead of duplicating this literal "1.5 - Hours" 4 times.(°ø™ä
+{
+java:S1192t"eDefine a constant instead of duplicating this literal "1. Pork
+2. Tomatoes
+3. Onions
+4. Oil" 4 times.(ö¸¤á
+_
+java:S11926"IDefine a constant instead of duplicating this literal "KSH 1800" 6 times.(ƒ¹Ä…
+~
+java:S1192}"cDefine a constant instead of duplicating this literal "1. Maize
+2. Beans
+3. Onions
+4. Oil" 3 times.(Š¯‹¶ûÿÿÿÿ
+g
+java:S11928"LDefine a constant instead of duplicating this literal "1.0 - Hours" 4 times.(€–úŽÿÿÿÿÿ
+
+java:S1319#"dThe type of "list" should be an interface such as "List" rather than the implementation "ArrayList".(ÓêÄ¾ùÿÿÿÿ
+=
+java:S1604="(Make this anonymous inner class a lambda(Ó·’.
+h	java:S101ž"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Â¿ÃÁûÿÿÿÿ
+n	java:S116!"TRename this field "row_index" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ‡ÙÀøÿÿÿÿ
+m
+java:S37760"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(Ÿ¶¿¨øÿÿÿÿ
+C
+java:S1659¡"'Declare "cardView2" on a separate line.(øÎÝâûÿÿÿÿ
